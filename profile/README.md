@@ -1,1 +1,1 @@
-![Slogan](https://github.com/survml/survml-files/blob/main/SurvML%20Slogan.png?raw=true)
+![Slogan](https://github.com/survml/survml-about/blob/main/survml-logo-with-text.png?raw=true)

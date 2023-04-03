@@ -2,6 +2,8 @@
 
 Welcome to our organization's GitHub repository! I am a PhD candidate and data scientist dedicated to developing machine learning models for survival analysis of equipment. My mission is to advance the state-of-the-art in predicting time-to-failure outcomes using data from various industries, with the ultimate goal of improving reliability and efficiency of equipment.
 
+Recommended by ChatGPT, the pronunciation of SurvML should be: "Based on the combination of "surv" and "ML," the most common pronunciation for "survml" would be "surv-em-el." The "em" sound in "em-el" represents the "M" in "ML," which is short for "machine learning."" But... I mean... No big difference.
+
 ## What is Survival Analysis?   
 
 Survival analysis is a branch of statistics that studies the time until an event of interest occurs, such as death, disease recurrence, or failure of a mechanical system. Survival analysis is commonly used in medical research, engineering, and other fields where the time-to-event outcome is of primary interest.
